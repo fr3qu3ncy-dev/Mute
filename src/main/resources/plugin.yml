@@ -1,0 +1,5 @@
+name: Mute
+version: ${project.version}
+main: de.fr3qu3ncy.mute.MutePlugin
+author: fr3qu3ncy
+api-version: 1.19
